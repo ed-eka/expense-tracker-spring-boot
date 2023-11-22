@@ -1,2 +1,2 @@
-# expense-tracker-spring-boot
-Expense Tracker using Spring Boot
+# expense-tracker-spring-boot-WIP
+Expense Tracker using Spring Boot (Work In Progress)
